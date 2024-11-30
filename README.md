@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+ # My Real-Time Collaboration Project
+
+This project is a work in progress. Stay tuned for updates!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
